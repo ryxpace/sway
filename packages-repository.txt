@@ -8,9 +8,16 @@ egl-wayland
 eos-sddm-theme
 file-roller
 foot
+galculator
 grim
 gtk-engine-murrine
 gtk-layer-shell
+gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
 htop
 jq
 mako

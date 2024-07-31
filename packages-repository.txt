@@ -45,5 +45,4 @@ wl-clipboard
 wofi
 xdg-desktop-portal-wlr
 xed
-xfce4-terminal
 xorg-xwayland
